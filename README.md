@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently learning **Flask**
-- 💡 Interested in **backend**, **AI/ML**, and **systems programming**
+- 🔭 Currently learning **Flask**, **AI/ML** and **Data Sturctures and Algorithms**
+- 💡 Interested in **backend**, **Data Science**, and **systems programming**
 
 ---
 
