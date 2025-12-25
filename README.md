@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishchay Joshi</h1>
+<h1 align="center">Hi , I'm Nishchay Joshi</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishchay-joshi&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently learning **Flask**, **AI/ML** and **Data Sturctures and Algorithms**
-- 💡 Interested in **backend**, **Data Science**, and **systems programming**
+Computer Science undergraduate with a strong foundation in software engineering fundamentals, data structures, and applied machine learning.
+Focused on writing clean, correct, and maintainable code, and on building projects that reflect real-world constraints.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-### 💻 Programming Languages  
+### Programming Languages  
 <div align="center">
   <table>
     <tr>
@@ -35,7 +35,7 @@
   </table>
 </div>
 
-### 🌐 Web Development  
+### Web Development  
 <div align="center">
   <table>
     <tr>
@@ -55,7 +55,7 @@
   </table>
 </div>
 
-### 📊 Libraries, Databases & Tools  
+### Libraries, Databases & Tools  
 <div align="center">
   <table>
     <tr>
@@ -85,16 +85,16 @@
 
 ---
 
-## 📈 Competitive Programming
+## Competitive Programming
 
-### 🧩 LeetCode  
+### LeetCode  
 <p align="center">
   <a href="https://leetcode.com/u/COYSCOYSCOYS/">
     <img src="https://leetcard.jacoblin.cool/COYSCOYSCOYS?theme=dark" />
   </a>
 </p>
 
-### ⚔️ Codeforces  
+### Codeforces  
 <p align="center">
   <a href="https://codeforces.com/profile/nishchayjoshi900">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nishchayjoshi900&theme=dark" />
@@ -110,7 +110,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
 
@@ -128,14 +128,7 @@
 
 ---
 
-## 🌱 Current Focus
-- Learning Flask (backend fundamentals)
-- Improving DSA for interviews
-- Building clean projects for GitHub
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=nishchay-joshi&theme=dark&hide_border=false" width="430" />
