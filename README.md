@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Nishchay Joshi</h1>
+<h1 align="center">👋Hi , I'm Nishchay Joshi</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishchay-joshi&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -6,82 +6,35 @@
 
 ---
 
-## About Me
+## 💫 About Me
 
-Computer Science undergraduate with a strong foundation in software engineering fundamentals, data structures, and applied machine learning.
-Focused on writing clean, correct, and maintainable code, and on building projects that reflect real-world constraints.
+ - Computer Science undergraduate, focused on writing clean, correct, and maintainable code, and on building projects that reflect real-world constraints.
+ - Currently learning Data Structures and Algorithms and ML.
+ - Interested in React.js, and FastAPI
 
 ---
 
-## Skills & Tools
+## 💻 Skills & Tools
 
-### Programming Languages  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
-        <br>C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
-        <br>C
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-        <br>Python
-      </td>
-    </tr>
-  </table>
-</div>
+#### Programming languages:
 
-### Web Development  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
-        <br>HTML
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
-        <br>CSS
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="FLASK" />
-        <br>Flask
-      </td>
-    </tr>
-  </table>
-</div>
+ - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Libraries, Databases & Tools  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino" />
-        <br>Arduino
-      </td>
-      <td align="center" width="90">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" height="45" alt="Numpy" />
-        <br>Numpy
-      </td>
-      </tr>
-  </table>
-</div>
+#### Web Development:
+ - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+#### Libraries and tools:
+ - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+ - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+ - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
