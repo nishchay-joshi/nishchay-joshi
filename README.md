@@ -10,7 +10,7 @@
 
  - Computer Science undergraduate, focused on writing clean, correct, and maintainable code, and on building projects that reflect real-world constraints.
  - Currently learning Data Structures and Algorithms and ML.
- - Interested in React.js, and FastAPI
+ - Interested in React.js, springboot and databases.
 
 ---
 
