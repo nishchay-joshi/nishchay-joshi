@@ -10,7 +10,7 @@
 
  - Computer Science undergraduate, focused on writing clean, correct, and maintainable code, and on building projects that reflect real-world constraints.
  - Currently learning Data Structures and Algorithms and ML.
- - Interested in React.js, springboot and databases.
+ - Interested in React.js, FastAPI and databases.
 
 ---
 
@@ -37,6 +37,7 @@
  - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  - ![PostgreSQL](https://img.shields.io/badge/postgresql-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ - ![Postman](https://img.shields.io/badge/postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
