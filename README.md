@@ -10,26 +10,20 @@
 
  - Computer Science undergraduate, focused on writing clean, correct, and maintainable code, and on building projects that reflect real-world constraints.
  - Currently learning Data Structures and Algorithms and FastAPI.
- - Interested in databases and understanding the working AI agents.
+ - Interested in databases and understanding the working of AI agents.
 
 ---
 
 ## 💻 Skills & Tools
 
-#### Programming languages:
-
  - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### Web Development:
  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  - ![FastAPI](https://img.shields.io/badge/fastapi-%23E34F26.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Libraries, Databases and tools:
  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -84,13 +78,10 @@
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nishchay-joshi&theme=dark&hide_border=false" width="430" />
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishchay-joshi&theme=dark" width="400"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishchay-joshi&theme=tokyo-night&hide_border=true&bg_color=0D0D14&color=A78BFA&line=7C3AED&point=10B981" />
 </div>
 
 ---
