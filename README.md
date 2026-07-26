@@ -84,6 +84,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishchay-joshi&theme=tokyo-night&hide_border=true&bg_color=0D0D14&color=A78BFA&line=7C3AED&point=10B981" />
 </div>
 
+[![Nishchay's GitHub stats](https://github-stats-extended.vercel.app/api?username=nishchay-joshi)](https://github.com/stats-organization/github-stats-extended)
+
 ---
 
 
