@@ -11,6 +11,7 @@
  - Computer Science undergraduate, focused on writing clean, correct, and maintainable code, and on building projects that reflect real-world constraints.
  - Currently learning Data Structures and Algorithms and FastAPI.
  - Interested in databases and understanding the working of AI agents.
+ - [Personal Website](https://nishchay-joshi-portfolio.vercel.app/)
 
 ---
 
